@@ -1,3 +1,4 @@
 Meu primeiro conteudo para aprender mais sobre repositorio GIT.
 Na Escola de tecnologia Vida Nova
 e quero aprender muito.
+Simulando uma alteração feita pelo meu amigo.
