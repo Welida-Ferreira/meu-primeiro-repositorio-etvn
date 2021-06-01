@@ -1,3 +1,4 @@
 MEU PRIMEIRO CONTATO COM GIT.
 Na Escola de tecnologia Vida Nova
 e quero aprender muito.
+Simulando uma alteração feita pelo meu amigo.
